@@ -4,6 +4,8 @@
 #build
 [Oo]bj/
 [Bb]in/
+[Ii]mg/
+
 packages/
 TestResults/
 
